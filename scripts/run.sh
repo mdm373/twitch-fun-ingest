@@ -1,0 +1,1 @@
+./dist/twitch-fun-ingest
